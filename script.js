@@ -30,3 +30,10 @@ export function exercise03(args) {
   }
   return count
 }
+export function exercise04(args) {
+  const currentElement = input[i]
+  if (currentElement === "e") count = count + 1
+  else if (currentElement === "e") {
+    count = count + 1
+  }
+}
